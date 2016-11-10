@@ -21,5 +21,6 @@
                 </tr>
             </c:forEach>
         </table>
+        <a href="createPost.jsp">New post</a>
     </body>
 </html>
