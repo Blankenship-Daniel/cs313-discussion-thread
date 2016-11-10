@@ -13,12 +13,12 @@
     </head>
     <body>
         <h1>Create Post</h1>
-        <form method="post" action="/DiscussionThread/CreatePost">
+        <form method="post" action="CreatePost">
             <div>
                 <textarea name="postEntry"></textarea>
             </div>
             <input type="submit">
         </form>
-        <a href="/DiscussionThread/ViewPosts">View Posts</a>
+        <a href="ViewPosts">View Posts</a>
     </body>
 </html>
